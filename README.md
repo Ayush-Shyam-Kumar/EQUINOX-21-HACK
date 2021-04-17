@@ -6,3 +6,5 @@ from tensorflow import keras
 model = keras.models.load_model('path/to/location')
 
 ## Any datasets can be used in this model to get satisfactory results.
+
+## The code has been made user friendly with a GUI further making this extremely easy to understand and layman worthy.
